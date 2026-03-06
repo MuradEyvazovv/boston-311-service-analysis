@@ -1,6 +1,8 @@
 # Boston Civic Data Analysis
 
 Skills demonstrated: Python; Data Analysis; Data Visualization; Public Data
+Dataset Source: Boston 311 Service Requests; Boston Open Data Portal  
+https://data.boston.gov/
 
 Hello, my name is Murad Eyvazov, and this is a small data analysis project that I created using the 311 service request dataset provided by the Boston Open Data Portal.
 
