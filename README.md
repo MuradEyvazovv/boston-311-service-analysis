@@ -1,7 +1,9 @@
 # Project Details
 
 analysis.py            → Python script for analysis
+
 charts/                → Generated visualizations
+
 README.md              → Project description
 
 Skills demonstrated: Python; Data Analysis; Data Visualization; Public Data
