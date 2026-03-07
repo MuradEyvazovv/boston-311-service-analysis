@@ -38,7 +38,9 @@ the departments that handle the most service requests
 ## Tools Used
 
 Python
+
 Pandas for data analysis
+
 Matplotlib and Seaborn for data visualization
 
 ## Project Output and Observations
