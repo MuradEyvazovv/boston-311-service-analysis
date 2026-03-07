@@ -1,3 +1,9 @@
+# Boston Civic Data Analysis
+
+Hello, my name is Murad Eyvazov, and this is a small data analysis project that I created using the 311 service request dataset provided by the Boston Open Data Portal.
+
+The purpose of this project is to demonstrate the use of civic data to gain insights into the operations of the city and to identify patterns in the types of issues that are reported to the local government.
+
 # Project Details
 
 analysis.py            → Python script for analysis
@@ -10,12 +16,6 @@ Skills demonstrated: Python; Data Analysis; Data Visualization; Public Data
 
 Dataset Source: Boston 311 Service Requests; Boston Open Data Portal  
 https://data.boston.gov/
-
-# Boston Civic Data Analysis
-
-Hello, my name is Murad Eyvazov, and this is a small data analysis project that I created using the 311 service request dataset provided by the Boston Open Data Portal.
-
-The purpose of this project is to demonstrate the use of civic data to gain insights into the operations of the city and to identify patterns in the types of issues that are reported to the local government.
 
 ## How to Run
 
